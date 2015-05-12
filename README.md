@@ -1,4 +1,4 @@
-# NoteS from Telerik NEXT 2015 in Boston, MA for Brandmuscle
+# Notes from Telerik NEXT 2015 in Boston, MA for Brandmuscle
 
 The slides and some code from the presenters are at https://github.com/telerik/teleriknext2015-presentations.
 
