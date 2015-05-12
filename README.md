@@ -5,8 +5,10 @@ The slides and some code from the presenters are at https://github.com/telerik/t
 Different pages with my own notes for each session.
 
 Big picture themes / what was popular
-* Mobile apps (NativeScript)
-* Responsive web design
-* Kendo UI
-* Telerik Platform (cloud IDE and backend services)
 * Angular JS 
+* Kendo UI
+* Mobile apps 
+  * NativeScript
+* Responsive web design
+* Telerik Platform (cloud IDE and backend services)
+
